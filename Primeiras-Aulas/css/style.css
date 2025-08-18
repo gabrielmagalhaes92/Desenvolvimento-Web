@@ -1,0 +1,39 @@
+     /* Box */
+
+body{
+    background-color: rgb(100, 105, 250);
+}
+#elemento1{
+background-color: #ffffff;
+width: 80px;
+height: 50px;
+padding: 0 20px;
+text-align: center;
+vertical-align: middle;
+display: table-cell;
+}
+
+ 
+#elemento2{
+padding: 2px;
+border: 1px solid rgb(255, 255, 255);
+border-radius: 100px;
+margin: 1px;
+display: inline-block;
+
+
+}
+
+
+     /* Cores */
+
+#cor1{
+width: 100px;
+height: 100px;
+background-color: rgb(255, 255, 255); /* Nome da cor */
+text-align: center;
+vertical-align: middle;
+display: table-cell;
+
+
+}

@@ -1,0 +1,21 @@
+
+/* Aplica o espaçamento individualmente
+p{
+padding-top: 25px;
+padding-right: 50px;
+padding-bottom: 75px;
+padding-left: 100px;
+}
+*/
+/* Mesmo resultado do exemplo anterior */
+p{
+padding: 20px;
+border: 12px solid red;
+border-radius: 100px;
+
+  margin-top: 25px;
+margin-right: 50px;
+margin-bottom: 5px;
+margin-left: 100px;
+display: inline-block;
+}
